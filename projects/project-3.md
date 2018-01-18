@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/android_app.png
-title: Cotton
+title: Homework Planner
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-08
