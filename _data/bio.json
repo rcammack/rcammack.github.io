@@ -6,7 +6,7 @@
     "email": "rcammack@hawaii.edu",
     "phone": "808-725-8927",
     "website": "https://rcammack.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019 and plan to work as a software engineer after graduation.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and a Minor in Mathematics at the University of Hawaii. I expect to graduate in Spring, 2019 and plan to work as a software engineer after graduation.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -51,42 +51,49 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Verilog",
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MATLAB",
+        "Android Studios",
+        "EAGLE",
+        "LogicWorks",
+        "MacOS",
+        "Windows",
+        "UNIX"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.65",
       "courses": [
+        "EE 367: Computer Data Strutures and Algorithms",
+        "EE 342: Probability and Statistics",
+        "EE 323: Microelectronic Circuits I",
+        "ICS 314: Software Engineering I",
+        "MATH 372: Elementary Probability and Statistics"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "University of Hawaii at Manoa",
+      "position": "EE Grader",
+      "website": "http://ee.hawaii.edu/",
+      "startDate": "2017",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
