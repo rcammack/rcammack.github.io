@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/scel.png
-title: Micromouse
+title: Smart Campus Energy Lab
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-01-10
 labels:
-  - Robotics
+  - PCB
   - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - XBee
+summary: My team designed an environmental sensor node to collect meterological data.
 ---
 
 <div class="ui small rounded images">
@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php) or [SCEL Website] (http://scel-hawaii.org).
 
 
 
