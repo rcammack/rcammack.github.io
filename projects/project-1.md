@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scel.png
 title: Smart Campus Energy Lab
-permalink: projects/micromouse
+permalink: projects/scel
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-10
 labels:
@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php) or [SCEL Website] (http://scel-hawaii.org).
+You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php) or [SCEL Website](http://scel-hawaii.org).
 
 
 
