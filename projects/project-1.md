@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php) or the [SCEL Website](http://scel-hawaii.org).
+You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php?id=weatherbox:start) or the [SCEL Website](http://scel-hawaii.org).
 
 
 
