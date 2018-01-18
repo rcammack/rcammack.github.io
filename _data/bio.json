@@ -23,19 +23,8 @@
       {
         "network": "linkedin",
         "username": "rcammack",
-        //"url": "http://linkedin.com/in/changeme"
         "url": "https://www.linkedin.com/in/riley-cammack-aaa201133/"
-      }/*,
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }*/
+      }
     ]
   },
   "interests": [
