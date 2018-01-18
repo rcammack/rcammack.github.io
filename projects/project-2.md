@@ -5,13 +5,12 @@ image: images/tama.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - C++
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - OOP
+summary: My team developed a single-player game to simulate caring for a virtual pet for a final project in EE 205.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
