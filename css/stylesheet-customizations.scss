@@ -8,18 +8,19 @@
 // Customize the background color
 body {
   // background-color: #f2f2f2;;
-  background: linear-gradient(to bottom, white, lightsteelblue);
+  background: linear-gradient(to top, white, lightskyblue);
 }
 
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
-    background: lightsteelblue;
+    //background: lightsteelblue;
 }
 
 // Customize the home page icon colors
 .icon-color {
   // color: silver;
+    background: white;
     color: darken(lightsteelblue, 20%);
 }
 
