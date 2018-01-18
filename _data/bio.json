@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Riley Cammack",
+    "name": "iley Cammack",
     "label": "Student",
     "picture": "https://raw.githubusercontent.com/rcammack/rcammack.github.io/master/images/riley.jpg",
     "email": "rcammack@hawaii.edu",
@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -26,7 +26,7 @@
         //"url": "http://linkedin.com/in/changeme"
         "url": "https://www.linkedin.com/in/riley-cammack-aaa201133/"
       },
-      {
+      /*{
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -35,7 +35,7 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
