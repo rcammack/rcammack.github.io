@@ -5,11 +5,12 @@ image: images/android_app.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-08-08
 labels:
-  - Lisp
+  - Android Studio
+  - SQL
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: My team developed a homework managing Android app for a EE 396 project.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
