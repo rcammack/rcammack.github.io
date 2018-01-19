@@ -20,23 +20,16 @@ summary: My team designed an environmental sensor node to collect meterological 
   <img class="ui image" src="../images/guavashelf.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+links
+pictures
+When you worked on a project with others, be sure to include the role that you played in the project and what artifacts you were responsible for producing. It’s usually good to describe “lessons learned” and skills acquired from each project.
+Appropriate description: Your project description should provide at least 3 paragraphs that describe: (1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The Smart Campus Energy Lab (SCEL) at the University of Hawaii at Manoa (UHM) offers many projects for students to participate in and is one of research labs within the Renewable Energy Island Sustainability (REIS). Since the spring of 2017, I have participated in the SCEL weatherbox project whose objective is to design and develop various environmental sensor nodes that are low-cost and efficient to place on the roofs of UHM buildings. The weatherboxes are intended to collect meterological data through various sensors and relay the data via an XBee to help with the forecasting of renewable energy resources.  In order to implement the desired weatherbox, the project was composed of two main components which consists of the printed circuit board (PCB) design, and the housing design. The project also included multiple meetings which consisted of presentations on the progress of the design process of each team. 
 
-Here is some code that illustrates how we read values from the line sensors:
+For this project, I was the lead PCB and housing designer for team Chocolate Cosmos in the spring of 2017, followed by the lead housing designer for team Guava in the fall of 2017. Both teams consisted of the same team members; however, the objectives of each team slightly varied. The team Guava project proved to be more difficult but also seeked to improve the existing weatherbox designs by integrating a new processor in the remodeled environmental sensor node. To approach the task of designing a PCB, we began by reproducing a schematic. Using EAGLE, my team and I efficiently placed the parts on a small chip to be printed. Both semesters, I designed a weatherproof housing design to prevent rain from entering the box while also providing ventilation to the components.  
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+From the experience, I was able to practice and learn more about hardware skills and PCB designing. I learned how to use the EAGLE and Google SketchUp programs. Not only did this project improve my technical skills but also advanced my communication, leadership, and presentation skills. Throughout each presentation, my public speaking skills improved greatly. Due to the many problems my team encountered throughout the experience, I also developed better problem solving skills.
 
 You can learn more at the [SCEL Wiki](https://wiki.scel-hawaii.org/doku.php?id=weatherbox:start) or the [SCEL Website](http://scel-hawaii.org).
 
