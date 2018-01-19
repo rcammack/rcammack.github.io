@@ -53,7 +53,8 @@
         "C++",
         "Javascript",
         "Verilog",
-        "Java"
+        "Java", 
+        "Python"
       ]
     },
     {
@@ -91,18 +92,7 @@
   "work": [
     {
       "company": "University of Hawaii at Manoa",
-      "position": "EE Grader",
-      "website": "http://ee.hawaii.edu/",
-      "startDate": "2017",
-      "endDate": "2017",
-      "summary": "Grader for EE 160 (Intro to Programming for Engineers)",
-      "highlights": [
-        "Graded quizzes and team homework assignments written in the programming language C for 88 students"
-      ]
-    },
-    {
-      "company": "University of Hawaii at Manoa",
-      "position": "EE Grader",
+      "position": "EE 315 Grader",
       "website": "http://ee.hawaii.edu/",
       "startDate": "2018",
       "endDate": "Present",
@@ -112,15 +102,27 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Manoa",
+      "position": "EE 160 Grader",
+      "website": "http://ee.hawaii.edu/",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Grader for EE 160 (Intro to Programming for Engineers)",
+      "highlights": [
+        "Graded quizzes and team homework assignments written in the programming language C for 88 students"
+      ]
+    },
+    {
+      "company": "RevaComm",
+      "position": "Software/Retained Services Intern",
+      "website": "http://www.revacomm.com/",
+      "startDate": "2017-05-17",
+      "endDate": "2017-08-11",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Wrote and documented Selenium tests in JavaScript",
+        "Reported website bugs found from ad hoc testing; quality checked bug fixes",
+        "Used Python to automate web scraping sites; organized and populated that data on clients’ sites"
       ]
     }
   ],
