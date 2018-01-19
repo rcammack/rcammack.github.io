@@ -16,7 +16,7 @@ summary: My team designed an environmental sensor node to collect meterological 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/scel.png">
   <img class="ui image" src="../images/guavalid.png">
-  <img class="ui image" src="../images/schematic2.png">
+  <img class="ui image" src="../images/schematic3.png">
   <img class="ui image" src="../images/guavashelf.png">
 </div>
 
