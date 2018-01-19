@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/android_app.png
 title: Homework Planner
-permalink: projects/cotton
+permalink: projects/app
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-08
 labels:
