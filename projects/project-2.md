@@ -14,6 +14,7 @@ summary: My team developed a single-player game to simulate caring for a virtual
 ---
 
 <img class="ui medium right floated rounded image" src="../images/egg.png">
+<img class="ui medium right floated rounded image" src="../images/game1.png">
 
 To start the game, you enter a name for your tamagotchi.  After a short animation, you are shown the status of your tamagotchi, which starts off healthy, full, and in a good mood along with a starting amount of $5, which you can later spend.  You are also given a menu of actions to take care of your pet.  Those actions include: feed tamagotchi, play a game, go to the store, check inventory, check status, and next day.  We implemented two mini-games: a memory game and a guessing game.
 
