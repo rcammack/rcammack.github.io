@@ -13,7 +13,7 @@ labels:
 summary: My team developed a single-player game to simulate caring for a virtual pet for a final project in EE 205.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/tama.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
