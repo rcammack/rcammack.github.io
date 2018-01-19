@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tama.png
 title: Tamagotchi
-permalink: projects/vacay
+permalink: projects/tamagotchi
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-01
 labels:
