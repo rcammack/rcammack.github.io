@@ -20,5 +20,5 @@ My main role was in developing an algorithm to calculate the priority of a task 
 
 Through this project, I was able to learn how to use the programming languages SQLite and Java. I also learned how to use Android Studios to design an app.
 
-Source: <a href="https://github.com/rcammack/396-Android-App"><i class="large github icon "></i>396-Android-App</a>
+Source: <a href="https://github.com/EE396-Android-Project/Android-Project"><i class="large github icon "></i>EE396-Android-Project</a>
 
