@@ -94,11 +94,21 @@
       "position": "EE Grader",
       "website": "http://ee.hawaii.edu/",
       "startDate": "2017",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "endDate": "2017",
+      "summary": "Grader for EE 160 (Intro to Programming for Engineers)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Graded quizzes and team homework assignments written in the programming language C for 88 students"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "EE Grader",
+      "website": "http://ee.hawaii.edu/",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Grader for EE 315 (Signals and Systems)",
+      "highlights": [
+        "Grading homework assignments for 66 students"
       ]
     },
     {
