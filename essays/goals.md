@@ -24,3 +24,5 @@ My learning philosophy is centered around a hands-on learning style integrated w
 After taking a variety of Computer Engineering courses, I started to notice that I prefer software over hardware
 hope to learn more programming languages and actually utilize them in projects
 master at github
+
+or my first year and a half of college, my declared major was electrical engineering.  It was not until after I took the introductory programming class required for electrical engineering majors that I became interested in pursuing a degree in computer engineering, and even after taking that class I hesitated to switch majors because I did not want to commit to changing my major based off of my interest towards one class.  Since I did not even know what major I wanted to go into until my sophomore year of college, it will take me a while to discover what exact type of software development job I want in the future and I view internships as a way for me to try out different types of work to help me make that decision.
