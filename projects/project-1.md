@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scel.png
 title: Smart Campus Energy Lab
-permalink: projects/micromouse
+permalink: projects/scel
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-10
 labels:
