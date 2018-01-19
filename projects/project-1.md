@@ -20,11 +20,6 @@ summary: My team designed an environmental sensor node to collect meterological 
   <img class="ui image" src="../images/guavashelf.png">
 </div>
 
-links
-pictures
-When you worked on a project with others, be sure to include the role that you played in the project and what artifacts you were responsible for producing. It’s usually good to describe “lessons learned” and skills acquired from each project.
-Appropriate description: Your project description should provide at least 3 paragraphs that describe: (1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
-
 The Smart Campus Energy Lab (SCEL) at the University of Hawaii at Manoa (UHM) offers many projects for students to participate in and is one of research labs within the Renewable Energy Island Sustainability (REIS). Since the spring of 2017, I have participated in the SCEL weatherbox project whose objective is to design and develop various environmental sensor nodes that are low-cost and efficient to place on the roofs of UHM buildings. The weatherboxes are intended to collect meterological data through various sensors and relay the data via an XBee to help with the forecasting of renewable energy resources.  In order to implement the desired weatherbox, the project was composed of two main components which consists of the printed circuit board (PCB) design, and the housing design. The project also included multiple meetings which consisted of presentations on the progress of the design process of each team. 
 
 For this project, I was the lead PCB and housing designer for team Chocolate Cosmos in the spring of 2017, followed by the lead housing designer for team Guava in the fall of 2017. Both teams consisted of the same team members; however, the objectives of each team slightly varied. The team Guava project proved to be more difficult but also seeked to improve the existing weatherbox designs by integrating a new processor in the remodeled environmental sensor node. To approach the task of designing a PCB, we began by reproducing a schematic. Using EAGLE, my team and I efficiently placed the parts on a small chip to be printed. Both semesters, I designed a weatherproof housing design to prevent rain from entering the box while also providing ventilation to the components.  
