@@ -116,40 +116,59 @@
       "company": "RevaComm",
       "position": "Software/Retained Services Intern",
       "website": "http://www.revacomm.com/",
-      "startDate": "2017-05-17",
-      "endDate": "2017-08-11",
+      "startDate": "2017",
+      "endDate": "2017",
       "summary": "",
       "highlights": [
         "Wrote and documented Selenium tests in JavaScript",
         "Reported website bugs found from ad hoc testing; quality checked bug fixes",
         "Used Python to automate web scraping sites; organized and populated that data on clients’ sites"
       ]
+    },
+    {
+      "company": "Pieology Pizzeria",
+      "position": "",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Cashier/Server",
+      "highlights": [
+        "Gained customer service and communication skills"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "National Honor Society for Electrical and Computer Engineers",
+      "website": "http://hknhawaii.weebly.com/",
+      "position": "Eta Kappa Nu (HKN) Pledge",
+      "startDate": "2015",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "website": "https://www.ieee.org/index.html",
+      "position": "Member",
+      "startDate": "2015",
+      "endDate": "Present",
+      "summary": "IEEE Student Branch",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "University of Hawaii at Manoa Honors Program",
+      "website": "http://manoa.hawaii.edu/undergrad/honors/",
+      "position": "Member and Volunteer",
+      "startDate": "2015",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Volunteer for Honors-to-Honors Day where new Regeants and Chancellor Scholars learn about and explore the UH campus"
       ]
     }
   ],
