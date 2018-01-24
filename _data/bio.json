@@ -51,10 +51,10 @@
       "keywords": [
         "C",
         "C++",
-        "Javascript",
-        "Verilog",
-        "Java", 
-        "Python"
+        "JavaScript",
+        "Python",
+        "Verilog", 
+        "VHDL"
       ]
     },
     {
@@ -81,7 +81,7 @@
       "endDate": "Present",
       "gpa": "3.65",
       "courses": [
-        "EE 367: Computer Data Strutures and Algorithms",
+        "EE 367: Computer Data Structures and Algorithms",
         "EE 342: Probability and Statistics",
         "EE 323: Microelectronic Circuits I",
         "ICS 314: Software Engineering I",
