@@ -10,3 +10,4 @@ labels:
   - Smart Questions
 ---
 ### header-
+Yes, we all occasionally ask a stupid question; that doesn't mean we shouldn't ask them.
