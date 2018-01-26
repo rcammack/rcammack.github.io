@@ -11,6 +11,8 @@ labels:
 ---
 ### -
 
-[*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html)
+In the article [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html), Eric Raymond roasts those who are stupid, not necessarily stupid in the sense that they are uneducated, but in the sense that they don’t put in any effort to educate themselves. These “losers” as Raymond calls them frequently annoy those around them by asking stupid questions.
+
 [Bad Question](https://stackoverflow.com/questions/43719039/is-this-javascript-code-ok)
+
 [Good Question](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
