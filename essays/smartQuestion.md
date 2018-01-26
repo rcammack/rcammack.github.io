@@ -9,7 +9,8 @@ labels:
   - Education
   - Smart Questions
 ---
-### There are two types of people in the world-
+### -
 
-Yes, we all occasionally ask a stupid question; that doesn't mean we shouldn't ask them.
 [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html)
+[Bad Question](https://stackoverflow.com/questions/43719039/is-this-javascript-code-ok)
+[Good Question](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
