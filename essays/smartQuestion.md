@@ -9,5 +9,6 @@ labels:
   - Education
   - Smart Questions
 ---
-### header-
+### There are two types of people in the world-
+
 Yes, we all occasionally ask a stupid question; that doesn't mean we shouldn't ask them.
