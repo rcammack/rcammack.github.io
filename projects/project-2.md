@@ -14,8 +14,7 @@ summary: My team developed a single-player game to simulate caring for a virtual
 ---
 
 <img class="ui medium right floated rounded image" src="../images/egg.png">
-For this project, my team and I programmed a single-player game in C++ to simulate caring for a virtual pet based on the popular toy [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi).  After learning about object-oriented programming in our class that semester, we utilized structs to contain the details of each tamagotchi. 
- 
+For this project, my team and I programmed a single-player game in C++ to simulate caring for a virtual pet based on the popular toy [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi).  After learning about object-oriented programming in our class that semester, we utilized structs to contain the details of each tamagotchi including its name, evolution, age, wealth, health, hunger, and mood. 
 
 ### Instructions-
 To start the game, you enter a name for your tamagotchi.  After a short animation, you are shown the status of your tamagotchi, which starts off healthy, full, and in a good mood along with a starting amount of $5, which you can later spend.  You are also given a menu of actions to take care of your pet.  Those actions include: feed tamagotchi, play a game, go to the store, check inventory, check status, and next day.  We implemented two mini-games: a memory game and a guessing game.
