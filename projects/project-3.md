@@ -20,7 +20,7 @@ When you open the app, you can add a new task or assignment by clicking the "+" 
 
 My role in this project included developing and writing the algorithm to calculate the priority of a task based on the due date, duration, and weight of the assignment.  In the beginning of the project, I organized my team's ideas into a doable timeline.  I also was the debugger and verified that our app was working properly at many intervals.  In addition, I played a big part in the design for the user interface.  
 
-Throughout this project, I was able to become more familiar with the programming languages SQLite and Java.  I also familiarized myself with Android Studios and how to use it to design a user friendly app.  I was able to gain public speaking skills through the experience as well since the project included a final presentation at the end of the semester with a short demo on how our app operates. 
+Throughout this project, I was able to become more familiar with the programming languages SQLite and Java.  I also familiarized myself with Android Studios and how to use it to design a user-friendly app.  I was able to gain public speaking skills through the experience as well since the project included a final presentation at the end of the semester with a short demo on how our app operates. 
 
 Source: <a href="https://github.com/EE396-Android-Project/Android-Project"><i class="large github icon "></i>EE396-Android-Project</a>
 
