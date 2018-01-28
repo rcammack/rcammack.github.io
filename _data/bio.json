@@ -124,18 +124,7 @@
         "Reported website bugs found from ad hoc testing; quality checked bug fixes",
         "Used Python to automate web scraping sites; organized and populated that data on clients’ sites"
       ]
-    }/*,
-    {
-      "company": "Pieology Pizzeria",
-      "position": "Cashier/Server",
-      "website": "",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "",
-      "highlights": [
-        "Gained customer service and communication skills"
-      ]
-    }*/
+    }
   ],
   "volunteer": [
     {
