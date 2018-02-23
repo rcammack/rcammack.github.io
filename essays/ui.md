@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: &lt;p style&equal;&quot;fast and easy&quot;&gt;
+title: Designing with &lt;style&gt
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
