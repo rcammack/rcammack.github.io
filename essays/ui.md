@@ -9,7 +9,7 @@ labels:
   - CSS
   - HTML
 ---
-#### Making a functional website is easy.  Making an aesthetically pleasing and functional website is difficult. 
+### Making a functional website is easy.  Making an aesthetically pleasing and functional website is difficult. 
 
  Turning an idea into an actual design can be challenging and may require frequent checkpoints to make sure recent changes do not mess up any previous formatting.  Stylesheets can quickly become overcrowded with classes and there can be overlap between styles in the individual classes as well.  Many of the issues encountered when designing a site using raw HTML and CSS can be avoided by using a UI framework.  
  
