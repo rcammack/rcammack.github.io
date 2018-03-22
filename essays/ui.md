@@ -9,6 +9,7 @@ labels:
   - CSS
   - HTML
 ---
+<img class="ui medium left floated rounded image" src="../images/semantic_ui.png">
 ### Making a functional website is easy.  Making an aesthetically pleasing and functional website is difficult. 
 
  Turning an idea into an actual design can be challenging and may require frequent checkpoints to make sure recent changes do not mess up any previous formatting.  Stylesheets can quickly become overcrowded with classes and there can be overlap between properties in the individual classes as well.  Many of the issues encountered when designing a site using raw HTML and CSS can be avoided by using a UI framework.  
