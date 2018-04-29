@@ -6,7 +6,7 @@
     "email": "rcammack@hawaii.edu",
     "phone": "808-725-8927",
     "website": "https://rcammack.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and a Minor in Mathematics at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019 and plan to work as a software engineer after graduation.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and a Minor in Mathematics at the University of Hawaii at Manoa. I expect to graduate in Spring 2019 and plan to work as a software engineer after graduation.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -130,18 +130,18 @@
     {
       "organization": "National Honor Society for Electrical and Computer Engineers",
       "website": "http://hknhawaii.weebly.com/",
-      "position": "Eta Kappa Nu (HKN) Pledge",
+      "position": "Eta Kappa Nu (HKN) Member and Officer (Pledge Master)",
       "startDate": "2017",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Volunteer for weekly tutoring and community service projects"
+        "Volunteer for educational events and community service projects"
       ]
     },
     {
       "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
-      "website": "https://www.ieee.org/index.html",
-      "position": "Member",
+      "website": "https://www.ieee.org",
+      "position": "Member and Officer (Secretary)",
       "startDate": "2015",
       "endDate": "Present",
       "summary": "",
@@ -152,7 +152,7 @@
     {
       "organization": "University of Hawaii at Manoa Honors Program",
       "website": "http://manoa.hawaii.edu/undergrad/honors/",
-      "position": "Member and Volunteer",
+      "position": "Member",
       "startDate": "2015",
       "endDate": "Present",
       "summary": "",

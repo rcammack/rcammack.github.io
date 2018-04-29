@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Designing with style and class
+title: Designing with Style and Class
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:

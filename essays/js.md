@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning a new language
+title: Learning a New Language
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:

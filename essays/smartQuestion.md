@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: There is such a thing as a stupid question
+title: There is Such a Thing as a Stupid Question
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
