@@ -23,7 +23,6 @@ To start the game, you enter a name for your tamagotchi.  After a short animatio
   <img class="ui image" src="../images/game1.png">
 </div>
 
-### My experience-
-My role was primarily as a tester and debugger of our program while also providing conceptual ideas about the structure of our tamagotchi game.  In addition, I provided the code for the guessing game mini-game.  Through this project, I was able to practice the object-oriented programming skills I developed that semester.  
+My role for this project was primarily as a debugger of our program while also providing conceptual ideas about the structure of our tamagotchi game.  In addition, I provided the code for the guessing game mini-game.  Through this project, I was able to practice the object-oriented programming skills I developed that semester.  
 
 Source: <a href="https://github.com/kekupua/WDK-Homework/tree/master/Final%20Project"><i class="large github icon"></i>WDK-Homework/Final_Project</a>

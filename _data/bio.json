@@ -52,9 +52,7 @@
         "C",
         "C++",
         "JavaScript",
-        "HTML/CSS",
-        "Python",
-        "Java"
+        "HTML/CSS"
       ]
     },
     {
@@ -65,9 +63,7 @@
         "MATLAB",
         "Android Studios",
         "EAGLE",
-        "LogicWorks",
         "MacOS",
-        "Windows",
         "UNIX"
       ]
     }
