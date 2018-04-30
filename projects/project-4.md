@@ -22,5 +22,5 @@ My role in this project included designing the landing page, helping design the 
 
 Throughout this project, I was able to become more familiar with the programming languages JavaScript with Extensible Markup Language (XML) and HTML/CSS.  I also familiarized myself with the Meteor platform and the MongoDB open-source database. This project has also opened my eyes to some of the amazing features that GitHub has to offer such as GitHub pages, organizations, milestones, and project boards. 
 
-Source: <a href="https://github.com/wash-n-dash"><i class="large github icon "></i>EE396-Android-Project</a>
+Source: <a href="https://github.com/wash-n-dash"><i class="large github icon "></i>Wash-n-Dash</a>
 
