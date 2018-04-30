@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/washndash.png
 title: Wash-n-Dash
-permalink: projects/app
+permalink: projects/wash-n-dash
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-04
 labels:
