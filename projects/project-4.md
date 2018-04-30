@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/android_app.png
+image: images/washndash.png
 title: Wash-n-Dash
 permalink: projects/app
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
   - GitHub
 summary: My team developed a web application to track the status of machines in laundry rooms around the University of Hawaii.
 ---
-<img class="ui medium right floated rounded image" src="../images/app_full.png">
+<img class="ui medium right floated rounded image" src="../images/washndash.png">
 
 For this project, my team used Android Studios and GitHub to design an app in Java to keep track of school assignments and set reminders for due dates.  The app uses an algorithm to list the tasks in order of a calculated priority value based off of the due date, duration, and importance level set by the user.  To keep track of the data for the multiple tasks, my team created a database for the task inputs using SQLite.  
 
