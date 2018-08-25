@@ -8,11 +8,11 @@ labels:
   - TechFolio
   - Desktop App
 ---
-### Background
+### Background- 
 
 This very essay is here, on my portfolio website, because I added a Markdown file to my TechFolio (the ship name of technical and portfolio) repository. This repo was initially a template forked from[TechFolios](https://github.com/techfolios/template)which I customized for my Software Engineering course (ICS 314) in Spring 2018. Now, in my Fall 2018 ICS 491 course, I will be exchanging editing my files in code editors for editing my files in[TechFolio Designer](https://github.com/techfolios/techfoliodesigner), the desktop application specifically designed to help people edit their TechFolio in a more user-friendly way. 
 
-### My experience onboarding as a TechFolio Designer (TFD) developer
+### My experience onboarding as a TechFolio Designer (TFD) developer-
 
 My initial reaction when opening TFD was that I was excited to learn more about how to design a desktop application and, in particular, how[Electron](https://electronjs.org/)could help make that happen. A quick Google search of Electron, an open-source framework for creating desktop applications, reveals its success through the creation of apps such as Skype, Atom, GitHub Desktop, and more. Helping with the development of an app that was implemented using Electron, such as the TFD, can help me learn how cross-platform desktop applications are designed. 
 
