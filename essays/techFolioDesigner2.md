@@ -15,7 +15,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Change background color of Splash Page
 
-* For this task, I changed the following file(s) ```src/splash/SplashPage.html```
+* For this task, I changed the following file(s):
+ ```src/splash/SplashPage.html```
 
 * I did not encounter any problems with this simple task
 
@@ -25,7 +26,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Add "last modified" timestamp to Splash page
 
-* For this task, I changed the following file(s) ```src/splash/SplashTable.jsx```
+* For this task, I changed the following file(s):
+ ```src/splash/SplashTable.jsx```
 
 * I initially ran into the problem of importing 'moment' in order to grab the time; however, I ended up using the Electron format ```const moment = require('moment');```.
 
@@ -35,7 +37,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Add "Get Current Time" menu item to Config menu
 
-* For this task, I changed the following file(s) ```src/main/ConfigSubMenu.js```
+* For this task, I changed the following file(s):
+ ```src/main/ConfigSubMenu.js```
 
 * The issue I had with this task was that I thought that the dialog box only needed to be passed the message as a string, but I quickly realized that it actually needed an object. I also had to restart the application in order for the changes to be reflected, which also caused some confusion.
 
@@ -47,7 +50,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Add simple validation to Set GitHub Repo name
 
-* For this task, I changed the following file(s) ```src/main/ConfigSubMenu.js```
+* For this task, I changed the following file(s):
+ ```src/main/ConfigSubMenu.js```
 
 * I did not encounter any problems for this task
 
@@ -59,7 +63,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Allow four networks in the Simple Bio Editor
 
-* For this task, I changed the following file(s) ```src/simplebioeditor/SimpleBioEditorTabNetwork.jsx```
+* For this task, I changed the following file(s):
+ ```src/simplebioeditor/SimpleBioEditorTabNetwork.jsx```
 
 * I did not encounter any problems for this straight-forward task
 
@@ -69,7 +74,8 @@ Throughout this onboarding experience, I was able to successfully implement 6 si
 
 #### Perform simple validation on Project and Essay Dates
 
-* For this task, I changed the following file(s) ```src/techfolioeditor/TechFolioEditor.jsx```
+* For this task, I changed the following file(s):
+ ```src/techfolioeditor/TechFolioEditor.jsx```
 
 * I encountered the most problems during this task because I could not get the notifier from Electron to work. I ended up solving this issue by using a dialog box to show the message instead. 
 
