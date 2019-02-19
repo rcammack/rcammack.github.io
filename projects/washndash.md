@@ -10,6 +10,7 @@ labels:
   - Meteor
   - React
   - GitHub
+  - JavaScript
 summary: My team developed a web application to track the status of machines in laundry rooms around the University of Hawaii.
 ---
 <img class="ui medium right floated rounded image" src="../images/washndash.png">

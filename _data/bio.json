@@ -2,17 +2,17 @@
   "basics": {
     "name": "Riley Cammack",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/rcammack/rcammack.github.io/master/images/riley.jpg",
+    "picture": "https://raw.githubusercontent.com/rcammack/rcammack.github.io/master/images/riley2.jpg",
     "email": "rcammack@hawaii.edu",
-    "phone": "808-725-8927",
     "website": "https://rcammack.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and a Minor in Mathematics at the University of Hawaii at Manoa. I expect to graduate in Spring 2019 and plan to work as a software engineer after graduation.",
+    "phone": "808-725-8927",
     "location": {
       "address": "",
       "postalCode": "96817",
       "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaii",
+      "countryCode": "USA"
     },
     "profiles": [
       {
@@ -38,6 +38,10 @@
     },
     {
       "name": "Algorithms",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
       "keywords": []
     }
   ],
@@ -78,8 +82,7 @@
       "startDate": "2015",
       "endDate": "2019",
       "gpa": "3.74",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -174,7 +177,7 @@
       "title": "College of Engineering Dean's List",
       "date": "Spring 2016-Present",
       "awarder": "University of Hawaii",
-      "summary": "Awarded to students who receive a GPA of 3.5 or higher."
+      "summary": "Awarded to students who receive a GPA of 3.5 or higher"
     },
     {
       "title": "UHM Chancellor's Merit Scholarship",
@@ -186,13 +189,13 @@
       "title": "Regent Donald Chang Won Kim Scholarship",
       "date": "Fall 2017",
       "awarder": "University of Hawaii",
-      "summary": "Scholarship awarded to outstanding engineering students."
+      "summary": "Scholarship awarded to outstanding engineering students"
     },
     {
       "title": "Fred and Annie Chan Scholarship for Electrical Engineering",
       "date": "Fall 2016",
       "awarder": "Fred and Annie Chan",
-      "summary": "Scholarship awarded to outstanding EE students."
+      "summary": "Scholarship awarded to outstanding EE students"
     }
   ],
   "references": [
