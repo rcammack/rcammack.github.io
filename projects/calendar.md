@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: images/micromouse.jpg
 title: "iCalendar Event File Generator"
 date: 2018-08-10

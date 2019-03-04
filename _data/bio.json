@@ -2,7 +2,7 @@
   "basics": {
     "name": "Riley Cammack",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/rcammack/rcammack.github.io/master/images/riley2.jpg",
+    "picture": "https://raw.githubusercontent.com/rcammack/rcammack.github.io/master/images/riley.jpg",
     "email": "rcammack@hawaii.edu",
     "website": "https://rcammack.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering and a Minor in Mathematics at the University of Hawaii at Manoa. I expect to graduate in Spring 2019 and plan to work as a software engineer after graduation.",
@@ -54,6 +54,7 @@
         "C",
         "C++",
         "C#",
+        "Java",
         "HTML/CSS",
         "Python"
       ]
