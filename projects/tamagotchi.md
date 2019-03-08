@@ -10,7 +10,7 @@ labels:
   - C++
   - GitHub
   - OOP
-summary: My team developed a single-player game to simulate caring for a virtual pet for a final project in EE 205.
+summary: Developed a single-player game to simulate caring for a virtual pet for a final project in EE 205
 ---
 
 <img class="ui medium right floated rounded image" src="../images/egg.png">

@@ -8,7 +8,7 @@ labels:
   - HTML/CSS
   - JavaScript
   - GitHub
-summary: My team designed a web application for users to download custom calendar event files for sharing and importing into calendar systems. 
+summary: Designed a web application for users to download custom calendar event files for sharing and importing into calendar systems
 ---
 For my final project for ICS 414 (Software Engineering II), our task was to build a system to create .ics  files that can be emailed or shared, and read into the recipient’s calendars. My team and I created a web application where users can create their own calendar event files. A user can fill out the fields to generate custom calendar event files following the [RFC 5545 format](https://tools.ietf.org/html/rfc5545). The user can then download the files to import event reminders into various calendar systems. 
 

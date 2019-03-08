@@ -10,7 +10,7 @@ labels:
   - PCB
   - Arduino
   - XBee
-summary: My team designed an environmental sensor node to collect meteorological data.
+summary: Designed an environmental sensor node to collect meteorological data
 ---
 
 <div class="ui small rounded images">

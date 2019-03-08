@@ -1,0 +1,155 @@
+body {
+  background-color: #eeeeee;
+  padding: 0px 0 ;
+  margin: 0;
+}
+
+.letterbolt {
+  display: inline-block;
+  /*  height: 20px;
+    width: auto;
+  */}
+
+.fill {
+  opacity: 0;
+  transition: opacity 0.4s;
+  -webkit-transition: opacity 0.4s;
+}
+
+.path{
+  transition: opacity 0.2s;
+  -webkit-transition: opacity 0.2s;
+}
+
+
+
+
+
+
+
+.circle {
+  padding: 20px;
+  border-radius: 100%;
+  background-color: #dddddd;
+  display: inline-block;
+}
+
+
+
+
+
+/*css per demo page */
+
+#counter {
+  text-align: center;
+}
+#counter-label {
+  text-align: center;
+}
+
+.the-button {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  padding: 5px 8px;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border: none;
+  box-shadow: 1px 1px 1px #AAAAAA;
+  -moz-box-shadow: 1px 1px 1px #AAAAAA;
+  -webkit-box-shadow: 1px 1px 1px #AAAAAA;
+  cursor: pointer;
+  margin: auto;
+  display: block;
+  outline: none;
+}
+.the-button:hover {
+  box-shadow: 0px 0px 0px #fff;
+  color: white;
+  background-color: red;
+}
+.the-button:active {
+  box-shadow: 0px 0px 0px #fff;
+  color: white;
+  background-color: purple;
+}
+
+.box {
+  width: 100%;
+  margin: 20px 0;
+  background-color: white;
+  padding: 0 0 30px 0;
+}
+#type-label {
+  text-align: center;
+}
+.lb-input {
+  margin: auto;
+  text-align: center;
+  display: block;
+  height: 50px;
+  width: 300px;
+  border: 2px solid #c5427b;
+  outline: none;
+  font-size: 24px;
+  color: #bbbbbb;
+}
+.lb-output {
+  text-align: center;
+}
+
+
+.scroll-down {
+  padding-top: 140px;
+  text-align: center;
+}
+.alfabeto {
+  padding: 10px 0 40px 0;
+}
+
+.alphabet {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.quote {
+  text-align: center;
+}
+
+.twitter {
+  text-align: center;
+  display: block;
+  margin: 10px;
+  text-decoration: none;
+  color: magenta;
+  font-family: georgia, serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+.twitter:hover {
+  color: black;
+}
+
+#counter .letterbolt {
+  opacity: 0.7;
+}
+#counter {
+  min-height: 280px;
+  background: url('demo/pattern.png');
+  background-size: 100px;
+  margin-top: 0;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  box-shadow: inset 0 0 40px #333;
+  -moz-box-shadow: inset 0 0 40px #333;
+}
+/*#counter:after {
+  content:;
+  background: url("data:image/svg+xml,%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0A%09%20width%3D%22100px%22%20height%3D%22100px%22%20viewBox%3D%220%200%20100%20100%22%20enable-background%3D%22new%200%200%20100%20100%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%220%2C0%2050%2C50%200%2C100%200%2C50%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23D4145A%22%20points%3D%22100%2C100%2050%2C50%20100%2C0%20100%2C50%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23ED1E79%22%20points%3D%22100.001%2C0%2050.001%2C50%200.001%2C0%2050.001%2C0%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23ED1E79%22%20points%3D%220%2C100%2050%2C50%20100%2C100%2050%2C100%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23FFFF00%22%20points%3D%2287.123%2C13%2013%2C87.123%2013%2C13%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23D9E021%22%20points%3D%2212.875%2C87%2087%2C12.875%2087%2C87%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2329ABE2%22%20points%3D%2230.04%2C70%2070%2C30.041%2070%2C70%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23D9E021%22%20points%3D%2269.959%2C30%2030%2C69.96%2030%2C30%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23FFFF00%22%20points%3D%2250%2C0.001%2050%2C99.998%200.001%2C50%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23FFFF00%22%20points%3D%2250%2C99.998%2050%2C0.001%20100%2C50%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23FFFF00%22%20points%3D%2250%2C-0.333%2050%2C49.831%2024.917%2C24.749%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%2250%2C99.831%2050%2C49.666%2075.083%2C74.748%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23FFFF00%22%20points%3D%22-0.082%2C50%2050.082%2C50%2025%2C75.083%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%22100.082%2C50%2049.917%2C50%2074.999%2C24.917%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23D9E021%22%20points%3D%2275%2C75.009%2099.989%2C100%2075%2C100%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%23D9E021%22%20points%3D%2224.99%2C75%200%2C99.909%200%2C75%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%2275%2C25%2050%2C0%2075%2C0%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%2250%2C100.001%2024.999%2C75%2050%2C75%20%22/%3E%0A%3Cpolygon%20opacity%3D%220.8%22%20fill%3D%22%2300FF00%22%20points%3D%2225%2C25%200%2C0%2025%2C0%20%22/%3E%0A%3C/svg%3E");
+  position: absolute;
+  top: 0;
+  left:0;
+  right: 0;
+  bottom: 0;
+}*/

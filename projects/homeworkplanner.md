@@ -10,7 +10,7 @@ labels:
   - Android Studio
   - SQL
   - GitHub
-summary: My team developed a homework managing Android app for a EE 396 project.
+summary: Developed a homework managing Android app for a EE 396 project
 ---
 <img class="ui medium right floated rounded image" src="../images/app_full.png">
 
